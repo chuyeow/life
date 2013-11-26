@@ -11,4 +11,4 @@
 - 04/2007-05/2012 Chief Software Architect, Wego
 - 13/02/2008 Created GitHub account
 - 05/2012-10/2013 CTO, Wego
-- 11/2013~ Director of Engineering, Nitrous.IO
+- 11/2013-~ Director of Engineering, Nitrous.IO
